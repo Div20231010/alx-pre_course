@@ -1,1 +1,1 @@
-My first readme
+Divine's Ezewele first alx project
